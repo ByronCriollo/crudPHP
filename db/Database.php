@@ -5,7 +5,7 @@ class Database extends PDO
 	//dbname
 	private $dbname = "blog";
 	//host
-	private $host = "localhost";
+	private $host = "10.129.12.3";
 	//user database
 	private $user = "postgres";
 	//password user
